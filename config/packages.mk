@@ -51,3 +51,7 @@ PRODUCT_PACKAGES += \
 # rsync
 PRODUCT_PACKAGES += \
     rsync
+
+# Repainter integration
+PRODUCT_PACKAGES += \
+    RepainterServicePriv
